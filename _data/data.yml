@@ -1,0 +1,257 @@
+career-profile:
+  summary: '
+
+    Experienced Environmental Professional with over 2 years in research and water
+    management. Skilled in
+
+    geospatial analysis (QGIS, ArcGIS, R programming), data analysis (Python, SQL,
+    Tableau, PowerBI), and project
+
+    management. Notably supervised the drilling of 14 boreholes across Sierra Leone.
+    Currently contributing to UN
+
+    disaster risk reduction efforts and leveraging these skills towards sustainable
+    water and climate solutions.
+
+    '
+  title: Moses Kolleh Sesay
+certifications:
+  list:
+  - credentialurl: https://www.futurelearn.com/certificates/41tobcy
+    details: ''
+    end: null
+    name: TECHNICAL REPORT WRITING FOR ENGINEERS
+    organization: FutureLearn
+    start: null
+  - credentialurl: TVRG2KWDBV89
+    details: ''
+    end: null
+    name: Understanding Research Methods
+    organization: Coursera
+    start: null
+  - credentialurl: https://www.linkedin.com/learning/certificates/e9f22eb787e63c2148f75b10457c7a8a0
+    details: ''
+    end: null
+    name: Data Wrangling in R
+    organization: LinkedIn
+    start: null
+  - credentialurl: CMZNGUUQSWNC
+    details: ''
+    end: null
+    name: Water Resources Management and Policy
+    organization: Coursera
+    start: null
+  - credentialurl: https://university.sdg-challenge.com/files/certificates-2023/4.%20Constania/Cert
+    details: ''
+    end: null
+    name: Soapbox University SDG-Challenge 2023
+    organization: Soapbox
+    start: null
+  title: Certifications
+education:
+  info:
+  - degree: MSc, Environmental Sciences-Human Environment Interaction
+    details: "\n        \u2022 Thesis: 'Socioeconomic impact on water quality'. Model\
+      \ Inter-comparisons for Multiple Pollutants in\n        Rivers: Lessons from\
+      \ Case Studies with deterministic MARINA-Multi and Dynamic SWAT Models.\n  \
+      \      \u2022 Relevant courses: Modelling future water stress, Climate Change\
+      \ Adaptation in Water Management,\n        Environmental Quality and Governance,\
+      \ Water Governance, Integrated Water Management.\n        \u2022 Academic Consultancy\
+      \ Training: Research project for the municipality of Wuppertal: \"Preventing\
+      \ the\n        Schwebebahn from becoming a boat: towards a flood-resilient Wuppertal\"\
+      . Role: manager.\n        "
+    time: 2021 - 2023
+    university: Wageningen University & Research
+  - degree: MSc, Industrial Engineering;-Industrial Engineering & Management
+    details: "\n        \u2022 Thesis: 'Approach to soft path water management- thinking\
+      \ beyond cement, steel and pipes, Freetown\n        as case study'.\n      \
+      \  \u2022 Relevant Courses: Project Management, Operations Research, Management\
+      \ Information Systems.\n        "
+    time: 2019 - 2021
+    university: Hunan University
+  - degree: BSc, Geology/Earth Science, General
+    details: "\n        \u2022 Thesis: 'Identifying the aquifer potential of the Freetown\
+      \ complex'.\n        \u2022 Relevant Courses: Hydrogeology, Geophysics, Environmental\
+      \ Geology, Marine Geology.\n        "
+    time: 2013 - 2016
+    university: University of Sierra Leone, Fourah Bay College
+  title: Education
+experiences:
+  info:
+  - company: United Nations Office for Disaster Risk Reduction (UNDRR)
+    details: "\n        \u2022 Assist in drafting and preparing various documents\
+      \ and presentations, including desk-based research.\n        \u2022 Support\
+      \ strengthening of data collection, processing, and analysis across multiple\
+      \ portfolios.\n        \u2022 Aid in research and development of technical guidance\
+      \ and training packages.\n        \u2022 Participate in the organization of\
+      \ various events, workshops, webinars, and training.\n        "
+    role: Climate Change Intern
+    time: Jun 2023 - Present (2 months)
+  - company: Wageningen University & Research
+    details: "\n        \u2022Led and facilitated groups of students for their research\
+      \ projects.\n        \u2022Focused on an interdisciplinary approach to learning\
+      \ that blends social and natural sciences.\n        "
+    role: Student Assistant
+    time: Sep 2022 - Feb 2023 (6 months)
+  - company: Team&Team International
+    details: "\n        Team & Team International, Freetown, Sierra Leone; Managed\
+      \ day-to-day field operations, including\n        drilling, design, and rehabilitation\
+      \ of boreholes and hand-dug wells.\n        \u2022Supervised the drilling of\
+      \ 14 monitoring boreholes across the 14 districts of Sierra Leone.\n       \
+      \ \u2022Conducted geophysical surveys, interpreted results, and performed pumping\
+      \ tests to assess the\n        quantity and quality of water sources.\n    \
+      \    \u2022Designed boreholes and maps using QGIS and Excel, prepared final\
+      \ reports, and ensured site\n        restoration.\n        "
+    role: Assistant Operations Manager
+    time: May 2019 - Sep 2019 (5 months)
+  - company: Sierra Drilling and Water Supply Enterprise
+    details: "\n        \u2022Supervised field employees to ensure efficient performance\
+      \ and completion of daily tasks.\n        \u2022Oversaw borehole drilling and\
+      \ design, construction of hand-dug wells, review, and rehabilitation work.\n\
+      \        \u2022Approved drilling equipment and supplies conducted pump tests,\
+      \ and site restoration.\n        \u2022Conducted geophysical surveys to locate\
+      \ aquifers and prepared reports.\n        \u2022Facilitated stakeholders and\
+      \ community engagement.\n        \u2022Provided guidance and assistance to management\
+      \ on employee and project performance.\n        "
+    role: Operations Supervisor
+    time: Sep 2018 - Apr 2019 (8 months)
+  title: Experiences
+footer: 'Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com"
+  target="_blank" rel="nofollow">Xiaoying Riley</a>
+
+  '
+oss:
+  contributions:
+  - link: '#'
+    tagline: A responsive website template designed to help startups promote their
+      products or services and to attract users &amp; investors
+    title: Tempo
+  - link: '#'
+    tagline: A comprehensive website template solution for startups/developers to
+      market their mobile apps.
+    title: Atom
+  - link: '#'
+    tagline: A responsive Bootstrap one page theme designed to help app developers
+      promote their mobile apps
+    title: Delta
+  intro: 'You can list your open source software contributions in this section. Lorem
+    ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    bibendum fringilla a eu lectus.
+
+    '
+  title: OSS Contributions
+projects:
+  assignments:
+  - link: '#hook'
+    tagline: A responsive website template designed to help startups promote, market
+      and sell their products.
+    title: Velocity
+  - link: '#'
+    tagline: A responsive website template designed to help web developers/designers
+      market their services.
+    title: DevStudio
+  - link: '#'
+    tagline: A responsive website template designed to help startups promote their
+      products or services and to attract users &amp; investors
+    title: Tempo
+  - link: '#'
+    tagline: A comprehensive website template solution for startups/developers to
+      market their mobile apps.
+    title: Atom
+  - link: '#'
+    tagline: A responsive Bootstrap one page theme designed to help app developers
+      promote their mobile apps
+    title: Delta
+  intro: 'You can list your side projects in this section. Lorem ipsum dolor sit amet,
+    consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a
+    eu lectus.
+
+    '
+  title: Projects
+publications:
+  intro: 'You can list your publications in this section. Lorem ipsum dolor sit
+
+    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+
+    bibendum fringilla a eu lectus.
+
+    '
+  papers:
+  - authors: Donald E. Knuth
+    conference: Addison-Wesley, 1968
+    link: '#'
+    title: The Art of Computer Programming
+  - authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    conference: Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn.
+      (1999)
+    link: '#'
+    title: 'Genetic Programming III: Darwinian Invention &amp; Problem Solving'
+  - authors: Edgar T. Irons
+    conference: "Comm. ACM 4 (1961), 51\u201355"
+    link: '#'
+    title: A syntax directed compiler for Algol 60
+  title: Publications
+sidebar:
+  about: true
+  avatar: IMG_1459 3 Background Removed.png
+  bitbucket: null
+  citizenship: null
+  codewars: null
+  education: true
+  email: moseskollehsesay@gmail.com
+  github: sharu725
+  gitlab: null
+  goodreads: null
+  interests:
+    info:
+    - item: Climbing
+      link: null
+    - item: Snowboarding
+      link: null
+    - item: Cooking
+      link: null
+    title: Interests
+  languages:
+    info:
+    - idiom: English
+      level: Native
+    - idiom: French
+      level: Professional
+    - idiom: Spanish
+      level: Professional
+    title: Languages
+  linkedin: linkedin.com/in/moseskollehsesaygeology
+  name: Moses Kolleh Sesay
+  pdf: http://www.africau.edu/images/default/sample.pdf
+  phone: '+31659361423'
+  position: right
+  stack-overflow: null
+  tagline: Full Stack Developer
+  telegram: null
+  timezone: America/Cancun Timezone
+  twitter: '@webjeda'
+  website: https://moseskollehsesay.github.io/
+  xing: alandoe
+skills:
+  title: Skills &amp; Proficiency
+  toolset:
+  - level: Proficient
+    name: data analysis
+  - level: Proficient
+    name: data collection
+  - level: Proficient
+    name: gis
+  - level: Proficient
+    name: Quantum GIS
+  - level: Proficient
+    name: Python (Programming Language)
+  - level: Proficient
+    name: SQL
+  - level: Proficient
+    name: Tableau
+  - level: Proficient
+    name: Microsoft Power BI
+  - level: Proficient
+    name: R (Programming Language)
+  - level: Proficient
+    name: Water Quality Modeling
